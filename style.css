@@ -48,7 +48,7 @@ nav ul li a {
 }
 
 nav ul li#nav_concept a {
-  background-image: url(../images/nav1.png);
+  background-image: url(/images/nav1.png);
 }
 
 nav ul li#nav_plan a {
